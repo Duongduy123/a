@@ -1,1 +1,1 @@
-"print('Hello from b.py')" 
+print("b") 
